@@ -43,7 +43,6 @@ We work across the full stack and are comfortable with:
 ### 🦜 Parrotnest
 
 Parrotnest is our modern real‑time chat and collaboration platform inspired by Discord.
-
 You can see Parrotnest in action here:
 
 - https://pn.hnato.pl
