@@ -12,7 +12,7 @@ JGS is a small full‑stack development team focused on modern web and applicati
       <sub>💻 Adam - "Hnato"</sub>
     </td>
     <td align="center">
-      <img src="media/Igor.jpg" alt="Igor (Flubi3604)" width="330" height="440" />
+      <img src="media/igor.jpg" alt="Igor (Flubi3604)" width="330" height="440" />
       <br />
       <sub>💻 Igor - "Flubi3604"</sub>
     </td>
