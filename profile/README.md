@@ -17,7 +17,7 @@ JGS is a small full‑stack development team focused on modern web and applicati
       <sub>💻 Igor - "Flubi3604"</sub>
     </td>
     <td align="center">
-      <img src="media/Jakub.jpg" alt="Jakub (John0G1thub)" width="330" height="440" />
+      <img src="media/jakub.jpg" alt="Jakub (John0G1thub)" width="330" height="440" />
       <br />
       <sub>💻 Jakub - "John0G1thub"</sub>
     </td>
