@@ -1,6 +1,6 @@
 # JGS 🧑‍💻
 
-JGS is a small full‑stack development team focused on modern web and application projects.
+JGS is a small "full‑stack" development team focused on modern web and application projects.
 
 ## Team 👥
 
