@@ -1,4 +1,3 @@
-# 🚀 JGS
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=🚀+JGS+Development+Team;💻+Full-Stack+Solutions;⚡+Modern+Applications;🛠️+Built+with+Passion" />
 
