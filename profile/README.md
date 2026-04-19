@@ -1,8 +1,10 @@
-# JGS 🧑‍💻
+# 🚀 JGS
 
-JGS is a small "full‑stack" development team focused on modern web and application projects.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=🚀+JGS+Development+Team;💻+Full-Stack+Solutions;⚡+Modern+Applications;🛠️+Built+with+Passion" />
 
-## Team 👥
+JGS is a small full-stack development team focused on modern, high-performance applications.
+
+## 👥 Team
 
 <table>
   <tr>
@@ -24,21 +26,22 @@ JGS is a small "full‑stack" development team focused on modern web and applica
   </tr>
 </table>
 
-## Tech Stack 🧰
+## 🧰 Tech Stack
 
-We work across the full stack and are comfortable with:
+C++, C#, Python, JavaScript, PHP  
+Node.js  
+HTML, CSS  
 
-- **Languages:** 💻 C++, C#, Python, JavaScript, PHP  
-- **Backend / Runtime:** 🖥️ Node.js  
-- **Web:** 🌐 HTML, CSS  
+## 🦜 Parrotnest
 
-## Latest Project 🚀
+Modern real-time chat platform inspired by Discord.
 
-### 🦜 Parrotnest
+🔗 https://pn.hnato.pl  
+🔗 https://pn.frodoinator.site  
 
-Parrotnest is our modern real‑time chat and collaboration platform inspired by Discord.
+## ⚡ ParrotBoost
 
-You can see Parrotnest in action here:
+ParrotBoost is a Windows 10/11 optimization tool improving performance and stability.
 
-- 🔗 https://pn.hnato.pl
-- 🔗 https://pn.frodoinator.site
+⬇️ Download:  
+https://github.com/JGS-Parrotnest/ParrotBoost/releases/download/v2.7.1_Stable/ParrotBoost-Setup-x64.exe
