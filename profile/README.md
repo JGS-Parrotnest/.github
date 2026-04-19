@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=🚀+JGS+Development+Team;💻+Full-Stack+Solutions;⚡+Modern+Applications;🛠️+Built+with+Passion" />
 </p>
 
-<p align="center" font-size="12">
+<p align="center" style="font-size:16px;">
   JGS is a small full-stack development team focused on modern, high-performance applications.
 </p>
 
