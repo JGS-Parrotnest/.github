@@ -6,6 +6,7 @@
 <p align="center">
   JGS is a small full-stack development team focused on modern, high-performance applications.
 </p>
+
 ## 👥 Team
 
 <table>
