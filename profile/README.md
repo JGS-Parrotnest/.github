@@ -31,9 +31,9 @@
 
 ## 🧰 Tech Stack
 
-C++, C#, Python, JavaScript, PHP  
-Node.js  
-HTML, CSS  
+- C++, C#, Python, JavaScript, PHP, Kotlin  
+- Node.js  
+- HTML, CSS  
 
 ## 🦜 Parrotnest
 
