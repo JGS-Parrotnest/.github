@@ -1,8 +1,11 @@
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=🚀+JGS+Development+Team;💻+Full-Stack+Solutions;⚡+Modern+Applications;🛠️+Built+with+Passion" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=🚀+JGS+Development+Team;💻+Full-Stack+Solutions;⚡+Modern+Applications;🛠️+Built+with+Passion" />
+</p>
 
-JGS is a small full-stack development team focused on modern, high-performance applications.
-
+<p align="center">
+  JGS is a small full-stack development team focused on modern, high-performance applications.
+</p>
 ## 👥 Team
 
 <table>
