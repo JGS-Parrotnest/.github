@@ -30,10 +30,27 @@
 </table>
 
 ## 🧰 Tech Stack
+Languages
+C++, C#, Python, TypeScript, JavaScript, PHP, Kotlin, SQL
 
-- C++, C#, Python, JavaScript, PHP, Kotlin  
-- Node.js  
-- HTML, CSS  
+Frontend
+React, TypeScript, HTML5, CSS3
+Responsive Web Design
+
+Backend
+Node.js
+REST API Development
+
+Databases
+PostgreSQL
+MySQL
+MongoDB
+SQLite
+
+Tools & Technologies
+Git
+Docker
+Linux
 
 ## 🦜 Parrotnest
 
