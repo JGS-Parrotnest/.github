@@ -33,24 +33,24 @@
 Languages
 C++, C#, Python, TypeScript, JavaScript, PHP, Kotlin, SQL
 
-Frontend
+Frontend:<br>
 React, TypeScript, HTML5, CSS3
 Responsive Web Design
 
-Backend
-Node.js
-REST API Development
+Backend:<br>
+Node.js<br>
+REST API Development <br>
 
-Databases
-PostgreSQL
-MySQL
-MongoDB
-SQLite
+Databases:<br>
+PostgreSQL<br>
+MySQL<br>
+MongoDB<br>
+SQLite<br>
 
-Tools & Technologies
-Git
-Docker
-Linux
+Tools & Technologies:<br>
+Git<br>
+Docker<br>
+Linux<br>
 
 ## 🦜 Parrotnest
 
