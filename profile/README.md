@@ -6,7 +6,7 @@
 
 <div align="center">
 
-| **Adam** | **Igor** | **Jakub** |
+| **Adam - Lead Dev** | **Igor - Dev + Graphics Designer** | **Jakub - Frontend** |
 | :---: | :---: | :---: |
 | <img src="media/Adam.jpg" alt="Adam" width="220" height="290" style="border-radius: 12px;" /> | <img src="media/igor.jpg" alt="Igor" width="220" height="290" style="border-radius: 12px;" /> | <img src="media/jakub.jpg" alt="Jakub" width="220" height="290" style="border-radius: 12px;" /> |
 | [`@Hnato`](https://github.com/Hnato) | [`@Flubi3604`](https://github.com/Flubi3604) | [`@John0G1thub`](https://github.com/John0G1thub) |
