@@ -5,10 +5,12 @@
 <h2 align="center">👥 The Team</h2>
 
 <div align="center">
+  
 | **Adam - Lead Dev** | **Igor - Dev + Graphics Designer** | **Jakub - Frontend** |
 | :---: | :---: | :---: |
 | <img src="media/Adam.jpg" alt="Adam" width="220" height="290" style="border-radius: 12px;" /> | <img src="media/igor.jpg" alt="Igor" width="220" height="290" style="border-radius: 12px;" /> | <img src="media/jakub.jpg" alt="Jakub" width="220" height="290" style="border-radius: 12px;" /> |
 | [`@Hnato`](https://github.com/Hnato) | [`@Flubi3604`](https://github.com/Flubi3604) | [`@John0G1thub`](https://github.com/John0G1thub) |
+
 </div>
 
 <h2 align="center">⚙️ Tech Stack</h2>
@@ -26,10 +28,12 @@
 
 <h2 align="center">🚀Projects</h2>
 <div align="center">
+  
 | Project | Description | Link |
 | :--- | :--- | :---: |
 | 🦜 **Parrotnest** | A real-time chat application created to explore web communications and modern interface design. | [🔗 Live Demo](https://pn.hnato.pl/login.php) |
 | ⚡ **ParrotBoost** | A desktop utility for basic Windows 10/11 system maintenance and performance tweaks. | [📥 Download v3.0.2](https://github.com/JGS-Parrotnest/ParrotBoost/releases/download/v3.0.2/ParrotBoost.Installer.exe) |
+
 </div>
 
 
