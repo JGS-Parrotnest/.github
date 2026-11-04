@@ -20,7 +20,7 @@
 
 
 
-### 🧰 Tech Stack
+# 🧰 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 🚀 Projects
+# 🚀 Projects
 
 ## 🦜 Parrotnest
 Modern real-time chat application heavily inspired by Discord.  
