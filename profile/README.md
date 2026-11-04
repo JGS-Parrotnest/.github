@@ -1,24 +1,35 @@
+<h1 align="center">JGS Development Team</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFB7B2&center=true&vCenter=true&width=600&lines=🌸+JGS+Development+Team;🌷+Building+Simple+Software;🎀+Learning+%26+Growing+Daily;✨+Crafted+with+Care" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFB7B2&center=true&vCenter=true&width=600&lines=🌸+JGS+Development+Team;🌷+Building+Simple+Software;🎀+Learning+%26+Growing+Daily;✨+Crafted+with+Care" alt="JGS Development Team" />
 </p>
 
 <p align="center">
-  <em>A small group of developers focused on creating clean, practical applications while continuously refining our skills.</em>
+  <em>A small group of developers focused on creating clean, practical applications<br>while continuously refining our skills.</em>
 </p>
 
+<p align="center">
+  <a href="#-the-team">Team</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-projects">Projects</a>
+</p>
 
-# 🧸 The Team
+---
+
+## 🧸 The Team
 
 <div align="center">
 
-| **Adam** <br> <sub>`@Hnato`</sub> | **Igor** <br> <sub>`@Flubi3604`</sub> | **Jakub** <br> <sub>`@John0G1thub`</sub> |
+| **Adam** | **Igor** | **Jakub** |
 | :---: | :---: | :---: |
 | <img src="media/Adam.jpg" alt="Adam" width="220" height="290" style="border-radius: 12px;" /> | <img src="media/igor.jpg" alt="Igor" width="220" height="290" style="border-radius: 12px;" /> | <img src="media/jakub.jpg" alt="Jakub" width="220" height="290" style="border-radius: 12px;" /> |
+| [`@Hnato`](https://github.com/Hnato) | [`@Flubi3604`](https://github.com/Flubi3604) | [`@John0G1thub`](https://github.com/John0G1thub) |
 
 </div>
 
+---
 
-# 🌸 Tech Stack
+## 🌸 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-FFB7B2?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -31,12 +42,17 @@
   <img src="https://img.shields.io/badge/Git-FFDAC1?style=for-the-badge&logo=git&logoColor=333" />
 </p>
 
-# 🌷 Projects
+---
 
-### 🦜 Parrotnest
-A real-time chat application created to explore web communications and modern interface design.  
-🔗 **[Live Demo](https://pn.hnato.pl/login.php)**
+## 🌷 Projects
 
-### ⚡ ParrotBoost
-A desktop utility built to assist with basic Windows 10/11 system maintenance and performance tweaks.  
-📥 **[Download Release (v3.0.2)](https://github.com/JGS-Parrotnest/ParrotBoost/releases/download/v3.0.2/ParrotBoost.Installer.exe)**
+<div align="center">
+
+| Project | Description | Link |
+| :--- | :--- | :---: |
+| 🦜 **Parrotnest** | A real-time chat application created to explore web communications and modern interface design. | [🔗 Live Demo](https://pn.hnato.pl/login.php) |
+| ⚡ **ParrotBoost** | A desktop utility for basic Windows 10/11 system maintenance and performance tweaks. | [📥 Download v3.0.2](https://github.com/JGS-Parrotnest/ParrotBoost/releases/download/v3.0.2/ParrotBoost.Installer.exe) |
+
+</div>
+
+
