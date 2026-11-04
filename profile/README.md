@@ -8,7 +8,7 @@
 
 ---
 
-## 👥 The Team
+# 👥 The Team
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 
 
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?ico=cpp,cs,py,ts,js,php,kotlin,sql,react,nodejs,postgres,mysql,mongodb,docker,linux,git&perline=8" />
@@ -29,10 +29,10 @@
 
 ## 🚀 Projects
 
-### 🦜 Parrotnest
+## 🦜 Parrotnest
 Modern real-time chat application heavily inspired by Discord.  
 🔗 **[Try Parrotnest Live](https://pn.hnato.pl/login.php)**
 
-### ⚡ ParrotBoost
+## ⚡ ParrotBoost
 Lightweight optimization utility designed to squeeze maximum performance and stability out of Windows 10/11.  
 📥 **[Download Latest Installer (v3.0.2)](https://github.com/JGS-Parrotnest/ParrotBoost/releases/download/v3.0.2/ParrotBoost.Installer.exe)**
