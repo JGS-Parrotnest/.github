@@ -14,7 +14,7 @@
 </div>
 
 
-## ⚙️ Tech Stack
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-FFB7B2?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -28,7 +28,7 @@
 </p>
 
 
-## 🚀Projects
+<h2 align="center">🚀Projects</h2>
 
 <div align="center">
 
