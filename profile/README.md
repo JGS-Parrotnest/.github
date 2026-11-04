@@ -1,22 +1,16 @@
 <h1 align="center">JGS Development Team</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFB7B2&center=true&vCenter=true&width=600&lines=🌸+JGS+Development+Team;🌷+Building+Simple+Software;🎀+Learning+%26+Growing+Daily;✨+Crafted+with+Care" alt="JGS Development Team" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFB7B2&center=true&vCenter=true&width=600&lines=🦜+JGS+Team;💻+Building+Simple+Software;🪴+Learning+%26+Growing+Daily;✨+Crafted+with+Care" alt="JGS Team" />
 </p>
 
 <p align="center">
   <em>A small group of developers focused on creating clean, practical applications<br>while continuously refining our skills.</em>
 </p>
 
-<p align="center">
-  <a href="#-the-team">Team</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-projects">Projects</a>
-</p>
-
 ---
 
-## 🧸 The Team
+## 👥 The Team
 
 <div align="center">
 
@@ -29,7 +23,7 @@
 
 ---
 
-## 🌸 Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-FFB7B2?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -44,7 +38,7 @@
 
 ---
 
-## 🌷 Projects
+## ༄˖°.🚀 Projects .ೃ࿔*:･ 
 
 <div align="center">
 
