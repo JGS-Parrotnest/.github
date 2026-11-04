@@ -64,4 +64,4 @@ Modern real-time chat platform inspired by Discord.
 ParrotBoost is a Windows 10/11 optimization tool improving performance and stability.
 
 ⬇️ Download:  
-https://github.com/JGS-Parrotnest/ParrotBoost/releases/download/v2.7.1_Stable/ParrotBoost-Setup-x64.exe
+<a href="https://github.com/JGS-Parrotnest/ParrotBoost/releases/download/v3.0.2/ParrotBoost.Installer.exe">Download installer</a>
