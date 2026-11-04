@@ -27,12 +27,12 @@
 </p>
 
 
-## 🚀 Projects
+🚀 Projects
 
-## 🦜 Parrotnest
+# 🦜 Parrotnest
 Modern real-time chat application heavily inspired by Discord.  
 🔗 **[Try Parrotnest Live](https://pn.hnato.pl/login.php)**
 
-## ⚡ ParrotBoost
+# ⚡ ParrotBoost
 Lightweight optimization utility designed to squeeze maximum performance and stability out of Windows 10/11.  
 📥 **[Download Latest Installer (v3.0.2)](https://github.com/JGS-Parrotnest/ParrotBoost/releases/download/v3.0.2/ParrotBoost.Installer.exe)**
