@@ -56,8 +56,7 @@ Linux<br>
 
 Modern real-time chat platform inspired by Discord.
  
-🔗 https://pn.hnato.pl  
-🔗 https://pn.frodoinator.site  
+🔗 <a href="https://pn.hnato.pl/login.php">Parrotnest<a/>
 
 ## ⚡ ParrotBoost
 
