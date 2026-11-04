@@ -6,7 +6,6 @@
   <em>Small full-stack squad obsessed with performance and clean code. Building apps that just work.</em>
 </p>
 
----
 
 # 👥 The Team
 
