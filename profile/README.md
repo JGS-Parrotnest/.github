@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFB7B2&center=true&vCenter=true&width=600&lines=🦜+JGS+Team;💻+Building+Simple+Software;🪴+Learning+%26+Growing+Daily;✨+Crafted+with+Care" alt="JGS Team" />
 </p>
 
-## 👥 The Team
+<h2 align="center">👥 The Team</h2>
 
 <div align="center">
 
