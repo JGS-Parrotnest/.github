@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFB7B2&center=true&vCenter=true&width=600&lines=🦜+JGS+Team;💻+Building+Simple+Software;🪴+Learning+%26+Growing+Daily;✨+Crafted+with+Care" alt="JGS Team" />
 </p>
 
-<h2 align="center">👥 The Team</h2>
+<p align="center"><font size="5"><b>👥 The Team</b></font></p>
 
 <div align="center">
   
@@ -13,7 +13,9 @@
 
 </div>
 
-<h2 align="center">⚙️ Tech Stack</h2>
+<br>
+
+<p align="center"><font size="5"><b>⚙️ Tech Stack</b></font></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-FFB7B2?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -26,7 +28,10 @@
   <img src="https://img.shields.io/badge/Git-FFDAC1?style=for-the-badge&logo=git&logoColor=333" />
 </p>
 
-<h2 align="center">🚀Projects</h2>
+<br>
+
+<p align="center"><font size="5"><b>🚀 Projects</b></font></p>
+
 <div align="center">
   
 | Project | Description | Link |
@@ -35,5 +40,3 @@
 | ⚡ **ParrotBoost** | A desktop utility for basic Windows 10/11 system maintenance and performance tweaks. | [📥 Download v3.0.2](https://github.com/JGS-Parrotnest/ParrotBoost/releases/download/v3.0.2/ParrotBoost.Installer.exe) |
 
 </div>
-
-
