@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFB7B2&center=true&vCenter=true&width=600&lines=🦜+JGS+Team;💻+Building+Simple+Software;🪴+Learning+%26+Growing+Daily;✨+Crafted+with+Care" alt="JGS Team" />
 </p>
 
-<p align="center"><font size="5"><b>👥 The Team</b></font></p>
+<p align="center"><font size="12"><b>👥 The Team</b></font></p>
 
 <div align="center">
   
@@ -15,7 +15,7 @@
 
 <br>
 
-<p align="center"><font size="5"><b>⚙️ Tech Stack</b></font></p>
+<p align="center"><font size="12"><b>⚙️ Tech Stack</b></font></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-FFB7B2?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -30,7 +30,7 @@
 
 <br>
 
-<p align="center"><font size="5"><b>🚀 Projects</b></font></p>
+<p align="center"><font size="12"><b>🚀 Projects</b></font></p>
 
 <div align="center">
   
