@@ -42,7 +42,7 @@
   
 | Project | Description | Link |
 | :--- | :--- | :---: |
-| 🦜 **Parrotnest** | A real-time chat application created to explore web communications and modern interface design. | [🔗 Live Demo](https://pn.hnato.pl/login.php) |
-| ⚡ **ParrotBoost** | A desktop utility for basic Windows 10/11 system maintenance and performance tweaks. | [📥 Download v3.0.2](https://github.com/JGS-Parrotnest/ParrotBoost/releases/download/v3.0.2/ParrotBoost.Installer.exe) |
+| 🦜 **Parrotnest** | A real-time chat application created to explore web communications and modern interface design. | [🔗 Try yourselfe](https://pn.hnato.pl/login.php) |
+| ⚡ **ParrotBoost** | A desktop utility for basic Windows 10/11 system maintenance and performance tweaks. | [📥 Download installer](https://github.com/JGS-Parrotnest/ParrotBoost/releases/download/v3.0.2/ParrotBoost.Installer.exe) |
 
 </div>
