@@ -27,7 +27,7 @@
 </p>
 
 
-🚀 Projects
+###🚀 Projects
 
 # 🦜 Parrotnest
 Modern real-time chat application heavily inspired by Discord.  
