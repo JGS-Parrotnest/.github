@@ -21,18 +21,31 @@
 
 
 # 🧰 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?ico=cpp,cs,py,ts,js,php,kotlin,sql,react,nodejs,postgres,mysql,mongodb,docker,linux,git&perline=8" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+#🚀 Projects
 
-###🚀 Projects
-
-# 🦜 Parrotnest
+## 🦜 Parrotnest
 Modern real-time chat application heavily inspired by Discord.  
-🔗 **[Try Parrotnest Live](https://pn.hnato.pl/login.php)**
+##🔗 **[Try Parrotnest Live](https://pn.hnato.pl/login.php)**
 
-# ⚡ ParrotBoost
+## ⚡ ParrotBoost
 Lightweight optimization utility designed to squeeze maximum performance and stability out of Windows 10/11.  
 📥 **[Download Latest Installer (v3.0.2)](https://github.com/JGS-Parrotnest/ParrotBoost/releases/download/v3.0.2/ParrotBoost.Installer.exe)**
