@@ -17,18 +17,16 @@
 
 </div>
 
-
-
 # 🧰 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-FFB7B2?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-B5EAD7?style=for-the-badge&logo=typescript&logoColor=333" />
+  <img src="https://img.shields.io/badge/JavaScript-FFF5BA?style=for-the-badge&logo=javascript&logoColor=333" />
+  <img src="https://img.shields.io/badge/React-C7CEEA?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-E2F0CB?style=for-the-badge&logo=nodedotjs&logoColor=333" />
+  <img src="https://img.shields.io/badge/MongoDB-D0F0C0?style=for-the-badge&logo=mongodb&logoColor=333" />
+  <img src="https://img.shields.io/badge/Docker-A2E8DD?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FFDAC1?style=for-the-badge&logo=git&logoColor=333" />
 </p>
 
 # 🚀 Projects
