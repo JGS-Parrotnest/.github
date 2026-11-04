@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFB7B2&center=true&vCenter=true&width=600&lines=🦜+JGS+Team;💻+Building+Simple+Software;🪴+Learning+%26+Growing+Daily;✨+Crafted+with+Care" alt="JGS Team" />
 </p>
 
-<p align="center">
-  <em>A small group of developers focused on creating clean, practical applications<br>while continuously refining our skills.</em>
-</p>
-
-
 ## 👥 The Team
 
 <div align="center">
@@ -33,7 +28,7 @@
 </p>
 
 
-## ༄˖°.🚀 Projects .ೃ࿔*:･ 
+## ༄˖°.🚀.ೃ࿔*:･ 
 
 <div align="center">
 
